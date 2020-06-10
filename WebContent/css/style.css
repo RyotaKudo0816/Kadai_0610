@@ -1,0 +1,28 @@
+a {
+	margin:0 auto;
+	display:block;
+}
+div {
+	text-align: center;
+}
+
+lib {
+	text-align: center;
+}
+
+
+form {
+	text-align: center;
+}
+
+label {
+	text-align: center;
+}
+
+. double {
+	height: 3px;
+	width: 90%;
+	background-color: black;
+	border: none;
+	border:double;
+}
